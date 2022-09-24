@@ -1,0 +1,15 @@
+C:\Projects\Dotnet\trackingApi\trackingClient\bin\Debug\net6.0\trackingClient.exe
+C:\Projects\Dotnet\trackingApi\trackingClient\bin\Debug\net6.0\trackingClient.deps.json
+C:\Projects\Dotnet\trackingApi\trackingClient\bin\Debug\net6.0\trackingClient.runtimeconfig.json
+C:\Projects\Dotnet\trackingApi\trackingClient\bin\Debug\net6.0\trackingClient.dll
+C:\Projects\Dotnet\trackingApi\trackingClient\bin\Debug\net6.0\trackingClient.pdb
+C:\Projects\Dotnet\trackingApi\trackingClient\obj\Debug\net6.0\trackingClient.csproj.AssemblyReference.cache
+C:\Projects\Dotnet\trackingApi\trackingClient\obj\Debug\net6.0\trackingClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet\trackingApi\trackingClient\obj\Debug\net6.0\trackingClient.AssemblyInfoInputs.cache
+C:\Projects\Dotnet\trackingApi\trackingClient\obj\Debug\net6.0\trackingClient.AssemblyInfo.cs
+C:\Projects\Dotnet\trackingApi\trackingClient\obj\Debug\net6.0\trackingClient.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet\trackingApi\trackingClient\obj\Debug\net6.0\trackingClient.dll
+C:\Projects\Dotnet\trackingApi\trackingClient\obj\Debug\net6.0\refint\trackingClient.dll
+C:\Projects\Dotnet\trackingApi\trackingClient\obj\Debug\net6.0\trackingClient.pdb
+C:\Projects\Dotnet\trackingApi\trackingClient\obj\Debug\net6.0\trackingClient.genruntimeconfig.cache
+C:\Projects\Dotnet\trackingApi\trackingClient\obj\Debug\net6.0\ref\trackingClient.dll
